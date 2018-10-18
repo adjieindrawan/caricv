@@ -2,6 +2,8 @@
 
 # CariCV
 
+Demo: [caricv.netlify.com](https://caricv.netlify.com/)
+
 ### Tentang
 
 Caricv adalah sebuah platform untuk komunitas orang yang ingin menunjukan dan menemukan resume kreatif dan personal branding. Mendukung dunia kreatif untuk update pekerjaan mereka di satu tempat dan menyiarkannya secara luas dan efisien. Perusahaan sangat mudah untuk menjelajahi resume dan akses bakat kandidat di seluruh Indonesia.
