@@ -39,9 +39,6 @@ Showcase & Discover Beautiful Resumes for the Creative Minds
 - Subscribe
 - Term Condition
 
-> Please add this
-
-
 ### What to do
 
 Work Flow:
